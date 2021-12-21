@@ -1,0 +1,18 @@
+body {
+  background-color: gray;
+}
+
+.header {
+  color: white;
+  text-align: center;
+}
+
+#clock {
+  color: white;
+  text-align: center;
+}
+
+#date {
+  color: white;
+  text-align: center;
+}
